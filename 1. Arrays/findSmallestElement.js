@@ -1,1 +1,0 @@
-// Find smallest element in the given array
