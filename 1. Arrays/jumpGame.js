@@ -8,6 +8,5 @@ function canJump(nums) {
 
         maxReach = Math.max(maxReach, i + nums[i]);
     }
-
     return true;
 }
